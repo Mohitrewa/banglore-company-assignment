@@ -1,0 +1,27 @@
+/* styles.css */
+
+.container {
+    max-width: 600px;
+  }
+  
+  .expression-container {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .expression-container label {
+    font-weight: bold;
+  }
+  
+  .expression-container .btn-danger {
+    margin-top: 10px;
+  }
+  
+  .submit-btn {
+    margin-left: 10px;
+  }
+  
+  /* Add more styling as needed */
+  
